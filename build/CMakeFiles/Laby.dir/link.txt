@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -std=c++11 -g  -rdynamic CMakeFiles/Laby.dir/src/Cell.cpp.o CMakeFiles/Laby.dir/src/Path.cpp.o CMakeFiles/Laby.dir/src/main.cpp.o CMakeFiles/Laby.dir/src/vibes.cpp.o  -o Laby 
